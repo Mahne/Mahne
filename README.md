@@ -1,0 +1,1 @@
+I am Ben Mahne, I try to install freecad on linux mint 64Bit system. I downloaded the file from freecad and it is a appimage file so i cannot install it. Then i download snapd from ubuntu and i found freecad there try to install it no luck error massage then i install the windows one and he installed but the home page is not correct
